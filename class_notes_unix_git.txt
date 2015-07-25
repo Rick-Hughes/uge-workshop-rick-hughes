@@ -11,7 +11,7 @@ Review Fish for functionality tweaks -
 
 To change a file's name, use the mv (Move) command.
 
-
+OK, I'm adding stuff to this file so I can see how git version control works.
 
 
 
@@ -22,4 +22,4 @@ not demonstrating using Fish, even though we were asked to install and use it
 video projector not up to the task (latency)
 scottish brogue from an instructor - really?
 inappropriate post-lunch video - what was that?
-
+writing in pale blue ink on a whiteboard with no light on it - even though there is another, well-lit whiteboard.
