@@ -1,0 +1,25 @@
+Remember to review the class syllabus (that they are supposed to send to us - via Slack?)
+
+Cheat sheets for Unix shell commands, flags, etc. are available via Google search -
+-
+Set up a bookmark folder in Safari to hold bookmarks related to Code Fellows and coding in general.
+
+Clear space on MacBook hard drive.
+
+Review Fish for functionality tweaks -
+- not every list "printed" in -t (tabular) format.
+
+To change a file's name, use the mv (Move) command.
+
+
+
+
+
+
+Class notes/critique;
+"I hate Fish"
+not demonstrating using Fish, even though we were asked to install and use it
+video projector not up to the task (latency)
+scottish brogue from an instructor - really?
+inappropriate post-lunch video - what was that?
+
